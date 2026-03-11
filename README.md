@@ -1,6 +1,6 @@
 # Personalized-medical-recommendation-system-with-ML
 
-💊 Machine Learning-Based Healthcare Recommendation System  
+Machine Learning-Based Healthcare Recommendation System  
 Developed an intelligent system that predicts diseases from symptoms using Support Vector Classifier (SVC) and Random Forest (RF) models, achieving 97.75% accuracy.  
 The system provides personalized recommendations for medication, diet, and exercise, promoting patient-centered healthcare.  
 It demonstrates the potential of ML in bridging accurate diagnosis with actionable treatment strategies.
