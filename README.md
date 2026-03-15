@@ -29,7 +29,3 @@ The models achieve an impressive **97.75% accuracy**, demonstrating the potentia
 For detailed methodology and results, you can access the research paper on ResearchGate:  
 [Personalized Medical Recommendation System with Machine Learning](https://www.researchgate.net/publication/388006562_Personalized_medical_recommendation_system_with_machine_learning)
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
