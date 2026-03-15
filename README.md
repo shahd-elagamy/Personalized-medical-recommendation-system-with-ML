@@ -1,10 +1,35 @@
-# Personalized-medical-recommendation-system-with-ML
+# Personalized Medical Recommendation System with Machine Learning
 
-Machine Learning-Based Healthcare Recommendation System  
-Developed an intelligent system that predicts diseases from symptoms using Support Vector Classifier (SVC) and Random Forest (RF) models, achieving 97.75% accuracy.  
-The system provides personalized recommendations for medication, diet, and exercise, promoting patient-centered healthcare.  
-It demonstrates the potential of ML in bridging accurate diagnosis with actionable treatment strategies.
+An intelligent healthcare recommendation system that leverages **Machine Learning** to predict diseases from patient symptoms and provide personalized treatment recommendations.
 
+## Overview
+This system integrates predictive modeling with actionable health guidance to promote **patient-centered care**. By analyzing symptoms, it can:
 
-## here is the link for my research paper on ResearchGate:
-https://www.researchgate.net/publication/388006562_Personalized_medical_recommendation_system_with_machine_learning
+- Predict potential diseases using **Support Vector Classifier (SVC)** and **Random Forest (RF)** models.
+- Provide personalized recommendations for:
+  - Medication
+  - Diet
+  - Exercise
+
+The models achieve an impressive **97.75% accuracy**, demonstrating the potential of ML in bridging accurate diagnosis with actionable treatment strategies.
+
+## Features
+- **Disease Prediction:** Accurate prediction from symptoms.
+- **Personalized Recommendations:** Tailored advice for medication, diet, and lifestyle.
+- **High Accuracy:** SVC and RF models trained for optimal performance.
+- **Patient-Centered:** Focused on actionable healthcare guidance.
+
+## Technologies Used
+- Python
+- scikit-learn (SVC, Random Forest)
+- Pandas, NumPy
+- Optional: Flask/Django for deployment (if applicable)
+
+## Research Paper
+For detailed methodology and results, you can access the research paper on ResearchGate:  
+[Personalized Medical Recommendation System with Machine Learning](https://www.researchgate.net/publication/388006562_Personalized_medical_recommendation_system_with_machine_learning)
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-link>
