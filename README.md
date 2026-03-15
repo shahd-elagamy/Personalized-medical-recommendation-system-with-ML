@@ -25,6 +25,12 @@ The models achieve an impressive **97.75% accuracy**, demonstrating the potentia
 - Pandas, NumPy
 - Optional: Flask/Django for deployment (if applicable)
 
+Future Improvements
+
+- Integration with real-time patient data
+- Deployment as a web or mobile application
+- Expansion to cover more diseases and lifestyle recommendations
+
 ## Research Paper
 For detailed methodology and results, you can access the research paper on ResearchGate:  
 [Personalized Medical Recommendation System with Machine Learning](https://www.researchgate.net/publication/388006562_Personalized_medical_recommendation_system_with_machine_learning)
